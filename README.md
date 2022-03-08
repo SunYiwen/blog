@@ -4,3 +4,4 @@
 ## Leetcode
 
 1. [BiNode](https://github.com/SunYiwen/blog/issues/1)
+2. [TwoSum](https://github.com/SunYiwen/blog/issues/2)
