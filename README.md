@@ -12,3 +12,4 @@
 
 ## 其他
 1. [Intersection Observer API实现模块滚动聚焦](https://github.com/SunYiwen/blog/issues/5)
+1. [Hash History 模式](https://github.com/SunYiwen/blog/issues/6)
